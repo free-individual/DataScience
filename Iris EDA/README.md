@@ -1,5 +1,5 @@
 # Exploratory Data Analysis of Iris Dataset.
-![Python](https://img.shields.io/badge/python-3.13.3-blue)
+![Python](https://img.shields.io/badge/python-3.13.3-red)
 
 ## Description
 
@@ -9,15 +9,15 @@ This project is an exploratory data analysis (EDA) on the classic Iris flower da
 
 This analysis revealed that Setosa species is linearly seperable from the other two based on petal measurements. Versicolor and Virginica have some overlap but are still largely distinguishable.
 
-![Seaborn Scatter Plot of Iris Data: Petal width against Sepal width](./Assets/PetalWidth%20vs.%20SepalWidth.png)
+<img src="./Assets/PetalWidth%20vs.%20SepalWidth.png" alt="Seaborn Scatter Plot of Iris Data: Petal width against Sepal width" width="600">
 
-![Seaborn Scatter Plot of Iris Data: Petal Length against Sepal Length](./Assets/PetalLength%20vs.%20SepalLength.png)
+<img src="./Assets/PetalLength%20vs.%20SepalLength.png" alt="Seaborn Scatter Plot of Iris Data: Petal Length against Sepal Length" width="600">
 
 ## Technologies Used
-Python
-Pandas
-Matplotlib
-Seaborn
+Python,
+Pandas,
+Matplotlib,
+Seaborn,
 
 ## Getting Started
 
