@@ -1,5 +1,5 @@
 # Exploratory Data Analysis of Iris Dataset.
-![Python](https://img.shields.io/badge/python-3.13.3-red)
+![Python](https://img.shields.io/badge/python-3.13.3-FF320A)
 
 ## Description
 
@@ -17,7 +17,7 @@ This analysis revealed that Setosa species is linearly seperable from the other 
 Python,
 Pandas,
 Matplotlib,
-Seaborn,
+Seaborn.
 
 ## Getting Started
 
