@@ -34,7 +34,7 @@ This project explores the classic Iris dataset, starting with an exploratory dat
 ### Installation
 1. Clone repository
     ```sh
-    git clone [https://github.com/free-individual/DataScience.git](https://github.com/free-individual/DataScience.git)
+    git clone https://github.com/free-individual/DataScience.git
 
 2. Navigate to project directory
     ```sh
