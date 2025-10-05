@@ -18,11 +18,11 @@ This project explores the classic Iris dataset, starting with an exploratory dat
 - **Description:** A machine learning model using Logistic Regression is built and evaluated. The model achieves 100% accuracy on the test set.
 
 ## Technologies Used
-Python,
-Pandas,
-Matplotlib,
-Seaborn,
-Scikit-learn.
+* Python
+* Pandas
+* Matplotlib
+* Seaborn
+* Scikit-learn
 
 ## Getting Started
 
