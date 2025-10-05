@@ -35,7 +35,7 @@ This project predicts the median house value for census block groups in Californ
 ### Installation
 1.  Clone the repository:
     ```sh
-    git clone [https://github.com/free-individual/DataScience.git](https://github.com/free-individual/DataScience.git)
+    git clone https://github.com/free-individual/DataScience.git
     ```
 2.  Navigate into the project directory:
     ```sh
