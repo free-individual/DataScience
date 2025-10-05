@@ -3,21 +3,26 @@
 
 ## Description
 
-This project is an exploratory data analysis (EDA) on the classic Iris flower dataset. The goal is to explore the relationships between the features (sepal length, sepal width, petal length, petal width) and classify the different species of Iris flowers (Setosa, Versicolor and Virginica).
+This project explores the classic Iris dataset, starting with an exploratory data analysis (EDA) and concluding with the development of a predictive classification model.
 
-## Key Findings
-
-This analysis revealed that Setosa species is linearly seperable from the other two based on petal measurements. Versicolor and Virginica have some overlap but are still largely distinguishable.
+### Part 1: Exploratory Data Analysis
+- **Notebook:** [`Iris EDA.ipynb`](./Iris%20EDA.ipynb)
+- **Description:** An initial analysis to visualize the data, understand feature distributions, and identify relationships between the flower species. It was concluded that 'Setosa' species is linearly seperable from the other two.
 
 <img src="./Assets/PetalWidth%20vs.%20SepalWidth.png" alt="Seaborn Scatter Plot of Iris Data: Petal width against Sepal width" width="600">
 
 <img src="./Assets/PetalLength%20vs.%20SepalLength.png" alt="Seaborn Scatter Plot of Iris Data: Petal Length against Sepal Length" width="600">
 
+### Part 2: Predictive Model
+- **Notebook:** [`Iris Prediction.ipynb`](./Iris%20Prediction.ipynb)
+- **Description:** A machine learning model using Logistic Regression is built and evaluated. The model achieves 100% accuracy on the test set.
+
 ## Technologies Used
 Python,
 Pandas,
 Matplotlib,
-Seaborn.
+Seaborn,
+Scikit-learn.
 
 ## Getting Started
 

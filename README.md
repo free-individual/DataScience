@@ -7,7 +7,7 @@ A repository to track my journey as a Data Scientist. This repository will help 
 
 Below is a list of projects contained in this repository.
 
-### 1. [Exploratory Data Analysis of the Iris Dataset](./Iris%20EDA/)
+### 1. [Iris Flower Classification](./Iris%20Classification/)
 
--- **Description:** An intial EDA on the classic Iris Dataset to explore relationship between sepal/petal measurements and classify the flower measurements and classify the species.
--- **Technologies:** Python, Pandas, Matplotlib, Seaborn.
+* **Description:** A complete data science project that starts with an exploratory data analysis (EDA) to understand the Iris dataset and concludes with building a Logistic Regression model to classify the flower species.
+* **Technologies:** Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn.
