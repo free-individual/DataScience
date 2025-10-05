@@ -20,7 +20,7 @@ This project predicts the median house value for census block groups in Californ
 
 * Feature importance analysis revealed that **Median Income (`MedInc`) is by far the most critical factor** in determining house prices.
 
-![Feature Importance Plot](./Assets/feature_importance.png)
+<img src="./Assets/feature_importance.png" alt="Feature Importance Plot" width=600px>
 
 ## Technologies Used
 * Python
