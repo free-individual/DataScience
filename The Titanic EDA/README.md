@@ -14,9 +14,10 @@ This project performs an exploratory data analysis (EDA) on the Titanic dataset 
 - The `RandomForestClassifier` achieved an accuracy of **81%**.
 - The `GradientBoostingClassifier` achieved a slightly higher accuracy of **83%**.
 
-
+### RandomForestClassifier Feature Importances.
 <img src="./assets/random_forest_importances.png" alt="Random Forest Classifier Feature Importances" width=600px>
 
+### GradientBoostingClassifier Feature Importances.
 <img src="./assets/gradient_boosting_importances.png" alt="Gradient Boosting Classifier Feature Importances" width=600px>
 
 ## Technologies Used
