@@ -16,3 +16,8 @@ Below is a list of projects contained in this repository.
 
 * **Description:** A comprehensive regression project to predict median house values in California. The project includes a thorough EDA, preprocessing steps like outlier removal and log transformation, and a comparison between a baseline `LinearRegression` model and a high-performing `RandomForestRegressor` model.
 * **Technologies:** Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn.
+
+### 3. [The Titanic EDA](./The%20Titanic%20EDA/)
+
+* **Description:** An exploratory data analysis (EDA) and classification project on the Titanic dataset. The project involves data cleaning, imputing missing values for 'Age' and 'Embarked', and feature engineering a 'Title' column. Two models (`RandomForestClassifier` and `GradientBoostingClassifier`) are trained to predict survival and identify the most influential factors.
+* **Technologies:** Python, Pandas, Matplotlib, Seaborn, Scikit-learn.
